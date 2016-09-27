@@ -1,0 +1,8 @@
+name:  weblogic
+pass: weblogic1923
+
+Domain Location: C:\work\test_domain
+
+Admin Server URL: http://dima-e727626f3b:7001
+http://127.0.0.1:7001
+http://127.0.0.1:7001/console
