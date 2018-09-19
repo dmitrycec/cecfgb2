@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="EKS_MQ_FRAUD_Stub">
-        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="EKS_MQ_FRAUD_Stub"/>
-        <property name="java-output-path" value="/EKS_MQ_FRAUD_Stub/build/classes"/>
-    </wb-module>
-</project-modules>
